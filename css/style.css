@@ -8891,7 +8891,7 @@ h1, h2, h3, h4, h5,
       .room-wrap .text h3 a {
         color: #000000; }
     .room-wrap .text span.price {
-      font-size: 26px;
+      font-size: 24px;
       color: #36454F;
       position: relative; }
     .room-wrap .text span.per {
@@ -10085,3 +10085,8 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.iconserv {
+  color: #21cc7a;
+  font-size: 40px;
+}
