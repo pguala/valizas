@@ -34,3 +34,12 @@ function actualizarPreciosHabitaciones() {
   // Llamar a la función para actualizar los precios al cargar la página
   document.addEventListener('DOMContentLoaded', actualizarPreciosHabitaciones);
   
+  // Cambiar color logo
+  window.addEventListener('scroll', function() {
+    const navbar = document.getElementById('ftco-navbar');
+    if (window.scrollY > 50) { // Detecta el scroll
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  });

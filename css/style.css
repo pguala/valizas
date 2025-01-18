@@ -10086,7 +10086,18 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
+/*Iconos*/
 .iconserv {
   color: #21cc7a;
   font-size: 40px;
+}
+
+/* Cambiar color logo */
+/* Cambiar el color del SVG cuando se hace scroll */
+.navbar.scrolled #logo #path-logo {
+  fill: black; /* Cambia al color que desees */
+}
+/* Establecer el color inicial */
+#logo #path-logo {
+  fill: white;
 }
