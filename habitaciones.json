@@ -1,0 +1,107 @@
+[
+  {
+    "nombre": "Familiar",
+    "precios": [
+      {
+        "fecha_inicio": "2025-01-16",
+        "fecha_fin": "2025-01-31",
+        "precio": 100
+      },
+      {
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-03-01",
+        "precio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Privada con baño",
+    "precios": [
+      {
+        "fecha_inicio": "2025-01-16",
+        "fecha_fin": "2025-01-31",
+        "precio": 85
+      },
+      {
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-03-01",
+        "precio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Privada sin baño",
+    "precios": [
+      {
+        "fecha_inicio": "2025-01-16",
+        "fecha_fin": "2025-01-31",
+        "precio": 70
+      },
+      {
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-03-01",
+        "precio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Compartida 4",
+    "precios": [
+      {
+        "fecha_inicio": "2025-01-16",
+        "fecha_fin": "2025-01-31",
+        "precio": 35
+      },
+      {
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-03-01",
+        "precio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Compartida 6",
+    "precios": [
+      {
+        "fecha_inicio": "2025-01-16",
+        "fecha_fin": "2025-01-31",
+        "precio": 30
+      },
+      {
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-03-01",
+        "precio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Compartida 8",
+    "precios": [
+      {
+        "fecha_inicio": "2025-01-16",
+        "fecha_fin": "2025-01-31",
+        "precio": 27
+      },
+      {
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-03-01",
+        "precio": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Compartida 10",
+    "precios": [
+      {
+        "fecha_inicio": "2025-01-16",
+        "fecha_fin": "2025-01-31",
+        "precio": 25
+      },
+      {
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-03-01",
+        "precio": ""
+      }
+    ]
+  }
+]
